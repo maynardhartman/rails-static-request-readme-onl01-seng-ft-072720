@@ -1,0 +1,34 @@
+{
+    "editor.cursorStyle": "underline",
+    "editor.columnSelection": true,
+    "emmet.includeLanguages": {
+        "html.erb": "html",
+        "html.inky": "html",
+        "erb": "html"
+    },
+    "git.alwaysSignOff": true,
+    "git.defaultCloneDirectory": "c:/Users/MJHAR/source/repos",
+    "gitProjectManager.displayProjectPath": true,
+    "gitProjectManager.ignoredFolders": [
+    
+    ],
+    "pullRequestMonitor.showClosed": true,
+    "pullRequestMonitor.showMerged": true,
+    "html.format.endWithNewline": true,
+    "materialTheme.accent": "Graphite",
+    "peacock.affectAccentBorders": true,
+    "peacock.affectStatusAndTitleBorders": true,
+    "peacock.affectTabActiveBorder": true,
+    "remote.WSL.debug": true,
+    "ruby.intellisense": "rubyLocate",
+    "ruby.format": "rubocop",
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.interpreter.commandPath": "C:\\Ruby26-x64",
+    "ruby.useBundler": true,
+    "ruby.useLanguageServer": true,
+    "ruby-language-server.additionalGems": "rubocop-rails, rubocop-performance",
+    "ruby.rubocop.useBundler": true,
+    "sass.lint.enable": true,
+    "svgviewer.enableautopreview": true,
+    "svgviewer.showzoominout": true
+}

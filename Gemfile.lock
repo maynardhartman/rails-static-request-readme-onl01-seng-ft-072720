@@ -224,6 +224,7 @@ DEPENDENCIES
   rack_session_access
   rails (= 5.0.7.1)
   rails-controller-testing
+  railties
   rb-readline
   rspec-collection_matchers
   rspec-rails
